@@ -1,9 +1,7 @@
 # React + Vite
 # React Tenzies
 
-![](./src/Tenzies/components/images/1.jpeg)
-
-![](./src/Tenzies/components/images/2.jpeg)
+![](./screenshots/Screenshot_31-7-2025_213052_localhost.jpeg)
 
 ## Continue Development ideas
 - Add a timer to see how long u take to win the game
