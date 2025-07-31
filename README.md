@@ -5,7 +5,7 @@
 
 ## Continue Development ideas
 - Add a timer to see how long u take to win the game
-- Style the dice to look like real dice with pips instead of numbers
+- A better feeling UI with better a11y
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
